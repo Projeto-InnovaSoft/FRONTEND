@@ -1,2 +1,2 @@
-# FrontEnd
-Desenvolvimento para o código do FrontEnd
+#PROJETO ERP
+ESPAÇO PARA DESENVOLVIMENTO VOLUNTÁRIO DE PROJETOS TECNOLÓGICOS
